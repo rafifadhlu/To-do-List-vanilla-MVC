@@ -22,7 +22,7 @@ There are 4 Main Feature from this website :
 You can start using To-do List with Login. For Account you can use this development Account :
 
 username : rafifadhlu12 \
-password : 12344 \
+password : 12344 
 
 After that you can try those all feature.
 
